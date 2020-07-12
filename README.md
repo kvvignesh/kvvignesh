@@ -1,5 +1,5 @@
 # K V Vignesh 
-<p align="center"><img src="assets/bitmoji.jpg" width="350" /> </p>
+<p align="center"><img src="./assets/bitmoji.jpg" width="400" /> </p>
 
 ### Hi there 👋 
 
