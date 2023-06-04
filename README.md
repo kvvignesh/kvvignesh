@@ -3,17 +3,18 @@
 
 ### Hi there 👋 
 
-I'm Vignesh and I'm a Full Stack Web Developer experienced in designing and building exceptional, high-quality, performant websites and applications.
+In the vast expanse of the digital universe, where creativity meets logic, there exists a software developer who dances effortlessly between the realms of imagination and innovation. Enter a world where lines of code converge into symphonies of functionality and elegance, and allow me to introduce you to a coding virtuoso like no other. Psst! It's me😉
 
-Here's something about me:
+I'm a strong believer in open-source and collaboration. Here's a sneek peak into my life;
 
-- 🔭 I’m currently working on designing and developing an Enterprise Application
+- 🔭 I’m currently working on designing and developing multiple enterprise applications
 - 🌱 I’m currently learning WebRTC, Augmented Reality, Artificial Intelligence, etc.,
 - ❤️ I'm in love with JavaScript and Python
-- 😉 People call me Vicky or K V
+- 🦸‍♂️ People call me Super Boy
 - 💬 Ask me about software development, fixing design issues and taking your application to production
 - 📫 How to reach me: Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vigneshkundhanam/)](https://www.linkedin.com/in/vigneshkundhanam/)
-- ⚡ Fun fact: I earned my first money at the age of 10. I was the only kid in my class who knows to install Windows XP. I use to charge ₹100 per installation😄.
+- ⚡ Fun fact: I earned my first money at the age of 10. I was the only kid in my class who knows to install Windows XP. I use to charge ₹100 per installation.
+
 
 ## <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
